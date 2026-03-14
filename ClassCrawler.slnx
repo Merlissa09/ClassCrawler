@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="ClassCrawler.Tests/ClassCrawler.Tests.csproj" />
-  <Project Path="ClassCrawler/ClassCrawler.csproj" />
-</Solution>
