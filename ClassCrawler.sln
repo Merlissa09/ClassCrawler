@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCrawler", "ClassCrawler\ClassCrawler.csproj", "{94F8E38A-9D6D-44D1-866F-2461D88DF238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassCrawler", "ClassCrawler\ClassCrawler.csproj", "{94F8E38A-9D6D-44D1-866F-2461D88DF238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCrawler.Tests", "ClassCrawler.Tests\ClassCrawler.Tests.csproj", "{A693E9EC-85B8-418A-9E54-ED5406527BFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassCrawler.Tests", "ClassCrawler.Tests\ClassCrawler.Tests.csproj", "{A693E9EC-85B8-418A-9E54-ED5406527BFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
