@@ -1,3 +1,1 @@
-using ClassCrawler.UI;
-
-GameUI.Run();
+ClassCrawler.UI.GameUI.Run();
