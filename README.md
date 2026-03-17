@@ -46,38 +46,6 @@ ClassCrawler/
 └── ClassCrawler.sln
 ```
 
-## Creating Project Issues
-
-This repository includes scripts to create all required GitHub issues for the project. The issues are organized into three waves:
-
-- **Wave 1** (9 points): Foundation - Core classes and CI setup
-- **Wave 2** (18 points): Game Logic - Combat, events, and patterns
-- **Wave 3** (12 points): Integration - Persistence, UI, and tests
-
-### Automated Creation
-
-#### Option 1: Using GitHub Actions (Easiest)
-1. Go to the "Actions" tab in your repository
-2. Select "Create Project Issues" workflow
-3. Click "Run workflow"
-4. Choose which wave to create (or "all")
-
-#### Option 2: Using Scripts
-```bash
-# Using bash script (Linux/Mac)
-chmod +x create_issues.sh
-./create_issues.sh
-
-# OR using Python script (Cross-platform)
-python3 create_issues.py
-```
-
-### Manual Creation
-
-If automated methods don't work, follow the step-by-step instructions in `MANUAL_ISSUE_CREATION.md`.
-
-For complete documentation, see `ISSUES_README.md`.
-
 ## Contributing
 
 <!-- TODO: Add contribution guidelines -->
